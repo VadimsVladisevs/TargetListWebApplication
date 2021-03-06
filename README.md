@@ -13,10 +13,9 @@ For execution this task, was created 3 MySQL databases:
 Implemented functionality
 
 * add/delete targets, users, records
-* show all targets, users, records
-* show all unfinished records
+* show all targets, users, records, unfinished records
 * change target, user, records parameters
-* search target, user, record
+* search target, user
 * set date of target completion
  
 ## Used libs
