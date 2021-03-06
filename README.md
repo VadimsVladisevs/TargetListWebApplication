@@ -3,7 +3,7 @@
 TargetListWebApplication tutorial project created for the [JavaGuru](https://javaguru.lv/) Java 2 – Agile Web Development course
 
 ## About application
-Main task - develop `to-do` list Web Application.
+Main task - develop "to-do" list Web Application.
 
 For execution this task, was created 3 MySQL databases:
 1) Targets - database contain all info about targets.
@@ -12,22 +12,22 @@ For execution this task, was created 3 MySQL databases:
 
 Implemented functionality
 * For Targets:
- * add/delete target
- * show all targets
- * change target parameters (name/description/deadline)
- * search target (search by name/description)
+   * add/delete target
+   * show all targets
+   * change target parameters (name/description/deadline)
+   * search target (search by name/description)
 
 * For Users:
- * add/delete user
- * show all users
- * change target parameters (first name/last name)
- * search target (search by first name/last name)
+    * add/delete user
+   * show all users
+   * change target parameters (first name/last name)
+   * search target (search by first name/last name)
 
 * For Records:
- * add/delete record
- * show all records
- * show unfinished record 
- * set date of target completion
+   * add/delete record
+   * show all records
+   * show unfinished record 
+   * set date of target completion
   
 ## Used libs
 
