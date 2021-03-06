@@ -1,4 +1,4 @@
-# Targe tList Web Application
+# Target List Web Application
 
 TargetListWebApplication tutorial project created for the [JavaGuru](https://javaguru.lv/) Java 2 – Agile Web Development course
 
