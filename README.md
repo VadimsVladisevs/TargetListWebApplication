@@ -8,7 +8,7 @@ Main task - develop "to-do" list Web Application.
 For execution this task, was created 3 MySQL databases:
 1) Targets - database contain all info about targets.
 2) Users - database contain all info abouts users.
-3) Board - database contain all records. (Record - info about target (what needs to do), info about user (who needs to do), targets addition date and date of target completion.
+3) Board - database contain all records. (Record - info about target (what need to do), info about user (who needs to do), targets addition date and date of target completion.
 
 Implemented functionality
 
