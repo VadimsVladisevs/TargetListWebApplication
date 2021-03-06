@@ -1,11 +1,11 @@
 # TargetListWebApplication
 TargetListWebApplication tutorial project created for the [JavaGuru](https://javaguru.lv/) Java 2 – Agile Web Development course
 
-##About application
+## About application
 
 about app
 
-##Used libs
+## Used libs
 
 At different stages of development was used:
 
